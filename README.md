@@ -75,12 +75,6 @@ Request Body
 
 ## 📸 Screenshots
 
-
+<img src="/cr-ui.png" alt="UI Screenshot" width="700">
 
 ---
-
-Add screenshots of your application here.
-
-
-
-Built with ❤️ using React, Node.js, Express, and the Gemini API.
